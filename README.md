@@ -149,4 +149,4 @@ Estos resultados se deducen del código y se presentan como guía de comprobaci�
 
 ## 6. Vídeo explicativo
 
-**Vídeo de la kata:** pendiente de añadir el enlace.
+**Vídeo de la kata:** https://youtu.be/X91GTjuRjIg
